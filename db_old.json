@@ -1,0 +1,73 @@
+{
+    "tokens":
+    [
+    	{
+            "attributes":
+            [
+                {
+                    "max_value": 300,
+                    "trait_type": "Health Points",
+                    "value": 300
+                },
+                {
+                    "trait_type": "Special Attack - Bomb Attack",
+                    "value": 80
+                },
+                {
+                    "trait_type": "Special Attack - Explosion Attack",
+                    "value": 100
+                },
+                {
+                    "trait_type": "Punch",
+                    "value": 50
+                },
+                {
+                    "trait_type": "Spider Attack",
+                    "value": 55
+                },
+                {
+                    "trait_type": "Web Shooter",
+                    "value": 65
+                }
+            ],
+            "description": "This is nft 0 of game char",
+            "id": 0,
+            "image": "https://images.unsplash.com/photo-1598257733238-97cf162c5ae0?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb",
+            "name": "Spider Man -- NFT #: 0"
+        },
+        {
+            "attributes":
+            [
+                {
+                    "max_value": 300,
+                    "trait_type": "Health Points",
+                    "value": 300
+                },
+                {
+                    "trait_type": "Special Attack - Bomb Attack",
+                    "value": 80
+                },
+                {
+                    "trait_type": "Special Attack - Explosion Attack",
+                    "value": 100
+                },
+                {
+                    "trait_type": "Punch",
+                    "value": 50
+                },
+                {
+                    "trait_type": "Spider Attack",
+                    "value": 55
+                },
+                {
+                    "trait_type": "Web Shooter",
+                    "value": 65
+                }
+            ],
+            "description": "This is an NFT that lets people play in the Epic NFT Game!",
+            "id": 1,
+            "image": "https://cdezqunbfyr4dwr4jcbtgjvgnzzo32xau4lkw52jkiz73phudu7a.arweave.net/EMmYUaEuI8HaPEiDMyambnLt6uCnFqt3SVIz_bz0HT4",
+            "name": "Spider Man -- NFT #: 1"
+        }
+    ]
+}

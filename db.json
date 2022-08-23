@@ -1,73 +1,125 @@
 {
     "tokens":
     [
-    	{
-            "attributes":
-            [
-                {
-                    "max_value": 300,
-                    "trait_type": "Health Points",
-                    "value": 300
-                },
-                {
-                    "trait_type": "Special Attack - Bomb Attack",
-                    "value": 80
-                },
-                {
-                    "trait_type": "Special Attack - Explosion Attack",
-                    "value": 100
-                },
-                {
-                    "trait_type": "Punch",
-                    "value": 50
-                },
-                {
-                    "trait_type": "Spider Attack",
-                    "value": 55
-                },
-                {
-                    "trait_type": "Web Shooter",
-                    "value": 65
-                }
-            ],
-            "description": "This is nft 0 of game char",
+        {
+            "description": "Basketballverse test nft",
             "id": 0,
-            "image": "https://images.unsplash.com/photo-1598257733238-97cf162c5ae0?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb",
-            "name": "Spider Man -- NFT #: 0"
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:0"
         },
         {
-            "attributes":
-            [
-                {
-                    "max_value": 300,
-                    "trait_type": "Health Points",
-                    "value": 300
-                },
-                {
-                    "trait_type": "Special Attack - Bomb Attack",
-                    "value": 80
-                },
-                {
-                    "trait_type": "Special Attack - Explosion Attack",
-                    "value": 100
-                },
-                {
-                    "trait_type": "Punch",
-                    "value": 50
-                },
-                {
-                    "trait_type": "Spider Attack",
-                    "value": 55
-                },
-                {
-                    "trait_type": "Web Shooter",
-                    "value": 65
-                }
-            ],
-            "description": "This is an NFT that lets people play in the Epic NFT Game!",
+            "description": "Basketballverse test nft",
             "id": 1,
-            "image": "https://cdezqunbfyr4dwr4jcbtgjvgnzzo32xau4lkw52jkiz73phudu7a.arweave.net/EMmYUaEuI8HaPEiDMyambnLt6uCnFqt3SVIz_bz0HT4",
-            "name": "Spider Man -- NFT #: 1"
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:1"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 2,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:2"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 3,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:3"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 4,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:4"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 5,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:5"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 6,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:6"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 7,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:7"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 8,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:8"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 9,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:9"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 10,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:10"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 11,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:11"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 12,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:12"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 13,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:13"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 14,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:14"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 15,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:15"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 16,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:16"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 17,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:17"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 18,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:18"
+        },
+        {
+            "description": "Basketballverse test nft",
+            "id": 19,
+            "image": "https://i.ibb.co/y0k1rGd/ezgif-com-gif-maker-1.gif",
+            "name": "Basketballverse Exclusive NFT #:19"
         }
     ]
 }
